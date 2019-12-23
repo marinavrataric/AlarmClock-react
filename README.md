@@ -1,3 +1,9 @@
+--------------alarm with sound & posibillity of snoozing alarm --------------
+<img width="746" alt="alarmClock" src="https://user-images.githubusercontent.com/21130451/71370226-8fc76200-25ad-11ea-9183-ade3730827ac.PNG">
+<img width="733" alt="alarmSet" src="https://user-images.githubusercontent.com/21130451/71370431-2f84f000-25ae-11ea-8afb-b3ee9879bdd1.PNG">
+
+<img width="633" alt="alarming" src="https://user-images.githubusercontent.com/21130451/71370432-2f84f000-25ae-11ea-870c-c87b252d7fb2.PNG">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
